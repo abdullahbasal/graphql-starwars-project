@@ -1,0 +1,15 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+.star-wars-characters{
+    background-color: #282A3A;
+    width: 100%;
+    height: 100%;
+}
+.star-wars-characters .content{
+    overflow-y: scroll;
+    word-break: break-all;
+    height: 100%;
+    border-radius: 6px;
+}

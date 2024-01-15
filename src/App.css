@@ -1,0 +1,15 @@
+html{
+ background-color: black;
+}
+body{
+  height: 100vh;
+  margin: 0;
+  color: white;
+}
+
+#root{
+  height: 100%;
+}
+ul{
+  list-style: none;
+}
